@@ -1,0 +1,18 @@
+{
+  "name": "mysql-seeder",
+  "version": "1.0.0",
+  "description": "seed mysql database for node.js projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "seed",
+    "mysql",
+    "nodejs",
+    "express",
+    "migration"
+  ],
+  "author": "Abdolrhman",
+  "license": "MIT"
+}
